@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolyRift3_2016-03-31.CSharp", "MolyRift3_2016-03-31.CSharp.csproj", "{EDF28D8D-0352-1A77-CD2A-E420E9A5476C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolyRift3_2016-03-31.CSharp.Editor", "MolyRift3_2016-03-31.CSharp.Editor.csproj", "{108B9DDE-59A9-F16F-4D8D-7577E170384C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF28D8D-0352-1A77-CD2A-E420E9A5476C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF28D8D-0352-1A77-CD2A-E420E9A5476C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF28D8D-0352-1A77-CD2A-E420E9A5476C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF28D8D-0352-1A77-CD2A-E420E9A5476C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108B9DDE-59A9-F16F-4D8D-7577E170384C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108B9DDE-59A9-F16F-4D8D-7577E170384C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108B9DDE-59A9-F16F-4D8D-7577E170384C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108B9DDE-59A9-F16F-4D8D-7577E170384C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
