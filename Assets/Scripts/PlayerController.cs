@@ -52,7 +52,6 @@ public class PlayerController : MonoBehaviour {
         LeftHandObjectTransform = LeapHandControllerTransform.FindChild("ImageFullLeftHand(Clone)/HandContainer");
 
         //Hide menu toggle if only 1 ligand is present
-        
 
         if (addAtoms.CollectionOfLigands == null)
         {

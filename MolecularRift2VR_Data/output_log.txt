@@ -25,10 +25,20 @@ Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data
 Loading C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
 Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\OBDotNet.dll (this message is harmless)
 Loading C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\OBDotNet.dll into Unity Child Domain
-- Completed reload, in  0.034 seconds
+- Completed reload, in  0.187 seconds
 Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.333853 ms
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 84)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2218 -> priority: 1 
+  Thread -> id: 1b9c -> priority: 1 

@@ -1,5 +1,5 @@
 <h3>Molecular Rift is a Virtual Reality Tool for Drug Designers</h3>
-by Jonas Boström, Magnus Norrby, Jonatan Enström at AstraZeneca CVMD Sweden 
+by Magnus Norrby, Jonatan Enström, Christoph Grebner and Jonas Boström at AstraZeneca CVMD Sweden 
 Contact details: dr.jonas.bostrom@gmail.com
 
 Launch the program using MolecularRift2VR.exe or MolecularRift2AR.exe
