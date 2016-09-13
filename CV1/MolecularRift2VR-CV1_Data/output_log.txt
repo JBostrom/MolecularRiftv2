@@ -1,0 +1,97 @@
+Initialize engine version: 5.3.6f1 (29055738eb78)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\OBDotNet.dll (this message is harmless)
+Loading D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\OBDotNet.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+Platform assembly: D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Oculus Rift\MolecularRiftv2\CV\MolecularRift2VR-CV1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.713003 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.269682 ms
+Before
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+After
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+147 676
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 27501.
+Total: 5.484964 ms (FindLiveObjects: 1.212394 ms CreateObjectMapping: 0.465072 ms MarkObjects: 3.746877 ms  DeleteObjects: 0.059336 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PopulateLigandMenu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unity VR Support with Oculus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 794 -> priority: 1 
+Joystick connected ("Gamepad ").
+ 
+(Filename:  Line: 1353)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.831500 ms
+
+Unloading 2745 unused Assets to reduce memory usage. Loaded Objects now: 1758.
+Total: 6.547894 ms (FindLiveObjects: 0.247610 ms CreateObjectMapping: 0.198216 ms MarkObjects: 1.557831 ms  DeleteObjects: 4.542952 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.553661 ms
+Before
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+After
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+459 2223
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 65201.
+Total: 13.351098 ms (FindLiveObjects: 3.277315 ms CreateObjectMapping: 1.603055 ms MarkObjects: 8.373222 ms  DeleteObjects: 0.096221 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PopulateLigandMenu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unity VR Support with Oculus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

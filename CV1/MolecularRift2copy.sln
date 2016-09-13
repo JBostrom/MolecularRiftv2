@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolecularRift2copy.CSharp", "MolecularRift2copy.CSharp.csproj", "{848E3599-1F99-3DEA-926D-1342403FC02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolecularRift2copy.CSharp.Editor", "MolecularRift2copy.CSharp.Editor.csproj", "{9DCE1EA2-DBDD-722C-127F-653EDBDA3735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{848E3599-1F99-3DEA-926D-1342403FC02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848E3599-1F99-3DEA-926D-1342403FC02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848E3599-1F99-3DEA-926D-1342403FC02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848E3599-1F99-3DEA-926D-1342403FC02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCE1EA2-DBDD-722C-127F-653EDBDA3735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCE1EA2-DBDD-722C-127F-653EDBDA3735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCE1EA2-DBDD-722C-127F-653EDBDA3735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCE1EA2-DBDD-722C-127F-653EDBDA3735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

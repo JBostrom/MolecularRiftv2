@@ -1,0 +1,84 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 84)
+
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980    (ID=0x161a)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\OBDotNet.dll (this message is harmless)
+Loading C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\OBDotNet.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Guest\Documents\MolecularRift2\MolecularRift2VR_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.456303 ms
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 84)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2010 -> priority: 1 
+  Thread -> id: 23ec -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.520381 ms
+Before
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+After
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+1450 7582
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 212309.
+Total: 31.913887 ms (FindLiveObjects: 7.573713 ms CreateObjectMapping: 3.219160 ms MarkObjects: 20.947023 ms  DeleteObjects: 0.173732 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PopulateLigandMenu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Invalid Leap Device -> enabled = false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 72.807449 ms
+
+Unloading 10665 unused Assets to reduce memory usage. Loaded Objects now: 1761.
+Total: 15.717935 ms (FindLiveObjects: 0.418490 ms CreateObjectMapping: 1.015568 ms MarkObjects: 0.910051 ms  DeleteObjects: 13.373056 ms)
+

@@ -1,0 +1,77 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 84)
+
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\OBDotNet.dll (this message is harmless)
+Loading D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\OBDotNet.dll into Unity Child Domain
+- Completed reload, in  0.159 seconds
+Platform assembly: D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Oculus Rift\From Google Drive\MolecularRift2copy\MolecularRift2VR_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 8.466555 ms
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 84)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 12f0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.548148 ms
+Before
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+After
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+147 676
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 27504.
+Total: 13.804938 ms (FindLiveObjects: 10.222281 ms CreateObjectMapping: 0.332285 ms MarkObjects: 3.196487 ms  DeleteObjects: 0.052601 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PopulateLigandMenu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Invalid Leap Device -> enabled = false
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Can't find any images. Make sure you enabled 'Allow Images' in the Leap Motion Settings, you are on tracking version 2.1+ and your Leap Motion device is plugged in.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
