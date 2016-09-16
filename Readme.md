@@ -32,14 +32,16 @@ Keyboard:
 * Leap Motion SDK 3.1.3
 * Unity v5.3.6f 
 * OpenBabel
+* Git lfs 
 * PC with:  
 * Windows 8 or Windows 10 (x64) 
 * 1x USB 3.0 
 * 2x USB 2.0 or higher (at least one powered)
 * DVI-D or HDMI graphics output
 * DX11 capable graphics adapter
+* Geforce GTX980 Graphics Card
 * 4 GB Memory
-* Git lfs 
+
 
 <h3>Optional</h3>
 * Universal Wireless Remote Controller / Gamepad
@@ -74,6 +76,7 @@ Keyboard:
 * Leap Motion SDK 2.3.1
 * Unity v5.3.0 
 * OpenBabel
+* Git lfs 
 * PC with:  
 * Windows 8 or Windows 10 (x64) 
 * 1x USB 3.0 
@@ -81,7 +84,7 @@ Keyboard:
 * DVI-D or HDMI graphics output
 * DX11 capable graphics adapter
 * 4 GB Memory
-* Git lfs 
+
 
 <h3>Optional</h3>
 * Universal Wireless Remote Controller / Gamepad
