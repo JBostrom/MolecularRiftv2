@@ -4,7 +4,7 @@ Contact details: dr.jonas.bostrom@gmail.com
 
 <h2>Oculus Rift Consumer Version 1 (CV1)</h2>
 
-Launch the program using MolecularRift2VR-CV1.exe.
+Launch the program using CV1/MolecularRift2VR-CV1.exe.
 
 <h3>Controls</h3>
 
@@ -45,7 +45,7 @@ Keyboard:
 
 <h2>Oculus Rift DK2</h2>
 
-Launch the program using MolecularRift2VR.exe or MolecularRift2AR.exe
+Launch the program using DK2/MolecularRift2VR.exe or DK2/MolecularRift2AR.exe
 
 <h3>Controls</h3>
 
@@ -83,3 +83,17 @@ Keyboard:
 
 <h3>Optional</h3>
 * Universal Wireless Remote Controller / Gamepad
+
+<h2>FAQ</h2>
+
+Question: I don't see any molecules/proteins, just a background image. Why is that?
+
+Answer: You probably don't have openbabel installed. Please install it and try again.
+
+Question: After installing Oculus Runtime 1.3, the graphics (especially details) is distorted at longer distances. Can I improve the graphics?
+
+Answer: Yes you can! 
+
+This is due to something known as supersampling. Here's a good description of how to improve graphics on Oculus Rift: http://www.roadtovr.com/improve-oculus-rift-game-image-quality-using-this-tool-oculus-debug-tool/.
+Be sure to read the instructions and follow every step of it.
+
