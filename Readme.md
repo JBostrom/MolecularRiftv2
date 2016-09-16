@@ -1,4 +1,4 @@
-<h2>Molecular Rift is a Virtual Reality Tool for Drug Designers</h2>
+<h2>Molecular Rift v2 – the one with Leap Motion</h2>
 by Magnus Norrby, Jonatan Enström, Christoph Grebner and Jonas Boström at AstraZeneca CVMD Sweden 
 Contact details: dr.jonas.bostrom@gmail.com
 
@@ -39,6 +39,7 @@ Keyboard:
 * DVI-D or HDMI graphics output
 * DX11 capable graphics adapter
 * 4 GB Memory
+* Git lfs 
 
 <h3>Optional</h3>
 * Universal Wireless Remote Controller / Gamepad
@@ -80,20 +81,22 @@ Keyboard:
 * DVI-D or HDMI graphics output
 * DX11 capable graphics adapter
 * 4 GB Memory
+* Git lfs 
 
 <h3>Optional</h3>
 * Universal Wireless Remote Controller / Gamepad
 
 <h2>FAQ</h2>
 
+Question: Can I use the latest version of the (Unity, Oculus Runtime, Leap Motion) SDK’s?
+Answer: Probably not, use all the versions specified above.
+ 
 Question: I don't see any molecules/proteins, just a background image. Why is that?
-
-Answer: You probably don't have openbabel installed. Please install it and try again.
-
+Answer: You probably don't have openbabel installed correctly. Please check your installation.
+ 
 Question: After installing Oculus Runtime 1.3, the graphics (especially details) is distorted at longer distances. Can I improve the graphics?
-
-Answer: Yes you can! 
-
-This is due to something known as supersampling. Here's a good description of how to improve graphics on Oculus Rift: http://www.roadtovr.com/improve-oculus-rift-game-image-quality-using-this-tool-oculus-debug-tool/.
-Be sure to read the instructions and follow every step of it.
+Answer: Yes you can! This is due to something known as supersampling. Here's a good description of how to improve graphics on Oculus Rift: http://www.roadtovr.com/improve-oculus-rift-game-image-quality-using-this-tool-oculus-debug-tool/. Be sure to read the instructions and follow every step of it.
+ 
+Question: It still doesn’t work. Any hints?
+Answer: Make sure you pull down all files correctly (also the one from Github’s LSF), and that your computer meets the requirements.
 
