@@ -50,6 +50,10 @@ Keyboard:
 
 Launch the program using DK2/MolecularRift2VR.exe or DK2/MolecularRift2AR.exe
 
+<h2>HTC Vive</h2>
+
+See https://github.com/UoA-eResearch/MolecularVive
+
 <h3>Controls</h3>
 
 Hand / Controller:
